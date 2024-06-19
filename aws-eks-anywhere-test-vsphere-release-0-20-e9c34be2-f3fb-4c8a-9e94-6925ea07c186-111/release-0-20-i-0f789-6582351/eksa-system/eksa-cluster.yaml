@@ -45,7 +45,7 @@ spec:
   managementCluster:
     name: release-0-20-i-0f789-6582351
   workerNodeGroupConfigurations:
-  - count: 1
+  - count: 3
     machineGroupRef:
       kind: VSphereMachineConfig
       name: release-0-20-i-0f789-6582351
